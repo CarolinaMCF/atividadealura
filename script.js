@@ -22,12 +22,12 @@ const alternativas = [
         enunciado: "No âmbito ambiental, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 3",
-                afirmacao: "Afirmação 3",
+                texto: "Curar todos os problemas ambientais do planeta, mas… haverá uma extinção global e só a próxima geração de humanos poderá usufruir dessa cura.",
+                afirmacao: "Você salvou o meio ambiente, mas a sua geração não existe mais.",
             },
             {
-                texto: "Alternativa 4",
-                afirmacao: "Afirmação 4",
+                texto: "Os humanos serão imortais, mas… os animais deixarão de existir.",
+                afirmacao: "Você se tornou imortal, mas acabou com o equilíbrio ecológico.",
             },
         ]
     },
@@ -35,12 +35,12 @@ const alternativas = [
         enunciado: "No âmbito tecnológico, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 5",
-                afirmacao: "Afirmação 5",
+                texto: "Criar uma nave espacial que pode te levar para qualquer planeta, mas… você não poderá, nunca mais, retornar à Terra. ",
+                afirmacao: "Você criou uma ótima nave, mas a Terra já não é mais seu lar.",
             },
             {
-                texto: "Alternativa 6",
-                afirmacao: "Afirmação 6",
+                texto: "Uma empresa cria robôs que fazem tudo o que você pedir com excelência, sem chance de rebelião, mas… você se transformará no robô da pessoa que você mais odeia. ",
+                afirmacao: "Os robôs convivem em harmonia com os humanos, mas agora você é o robô de quem mais odeia.",
             },
         ]
     },
