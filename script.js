@@ -40,7 +40,7 @@ const alternativas = [
             },
             {
                 texto: "Uma empresa cria robôs que fazem tudo o que você pedir com excelência, sem chance de rebelião, mas… você se transformará no robô da pessoa que você mais odeia. ",
-                afirmacao: "Os robôs convivem em harmonia com os humanos, mas agora você é o robô de quem mais odeia.",
+                afirmacao: "Os robôs convivem em harmonia com os humanos, mas agora você pertence à pessoa que você mais odeia.",
             },
         ]
     },
