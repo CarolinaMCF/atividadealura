@@ -9,12 +9,12 @@ const alternativas = [
         enunciado: "No âmbito social, você prefere:",
         alternativa: [
             {
-                texto: "Alternativa 1",
-                afirmacao: "Afirmação 1",
+                texto: "Ter o poder de voar livremente, mas… nunca mais pousar.",
+                afirmacao: "Você nunca mais poderá pisar no chão.",
             },
             {
-                texto: "Alternativa 2",
-                afirmacao: "Afirmação 2",
+                texto: "Ter supervelocidade, mas… ser grudado no chão.",
+                afirmacao: "Você nunca mais poderá sair do chão.",
             },
         ]
     },
